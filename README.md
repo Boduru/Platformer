@@ -1,5 +1,5 @@
 # Platformer
-Simple C++ 2D Platformer game based on SFML.
+C++ 2D Platformer game based on SFML.
 
 ## Systems Implemented
 - Mutiples Maps
@@ -9,6 +9,7 @@ Simple C++ 2D Platformer game based on SFML.
 - Player Double & Triple Jumps
 - Player Friction and Acceleration
 - 2D Collision Detection and Response
+- 2D Lerp Camera Follows Player
 
  ## Requirements
  - C++
