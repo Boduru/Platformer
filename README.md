@@ -1,7 +1,7 @@
 # Platformer
 C++ 2D Platformer game based on SFML.
 
-## Systems Implemented
+## Implemented Mechanics
 - Mutiples Maps
 - Map Layers
 - Automatic JSON Map File Reader
