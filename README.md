@@ -13,5 +13,6 @@ C++ 2D Platformer game based on SFML.
 
  ## Requirements
  - C++
+ - GLEW
  - SFML
  - Visual Studio 2016
