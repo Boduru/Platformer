@@ -15,4 +15,6 @@ C++ 2D Platformer game based on SFML.
  - C++
  - GLEW
  - SFML
+ - nlohmann.json
+ - pugixml
  - Visual Studio 2016
