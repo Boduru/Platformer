@@ -1,6 +1,10 @@
 # Platformer
 C++ 2D Platformer game based on SFML.
 
+<p align="center">
+  <img src="https://github.com/JimPavan/Platformer/blob/main/screenshots/demo.gif" width="800"/>
+</p>
+
 ## Implemented Mechanics
 - Mutiples Maps
 - Map Layers
